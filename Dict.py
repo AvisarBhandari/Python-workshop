@@ -6,3 +6,4 @@ print('Items:',student.items())
 print('Grade:',student.get('grade'))
 student.pop('age')
 print('After poping age:',student)
+
